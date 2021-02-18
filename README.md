@@ -56,9 +56,9 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This is a simple Smart contract to print any message, so you can use it to make the traditional and well known, Hello World! but in solidity. :smile:
+This smart contract has only one functionality to store a uint type variable :smile:
 
-If you're new to smart contracts I invite you to study the code and try to replicate by yourself with the help of the solidity documentation. :stars:
+If you're interested in smart contracts I invite you to study the code and try to replicate by yourself with the help of the solidity documentation. :stars:
 
 ### Built With :computer:
 
@@ -82,18 +82,18 @@ In the web app you can create, compile, deploy and interact with smart contracts
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/darubiomunoz/smartcontract-print.git
+   git clone https://github.com/darubiomunoz/smartcontract-simplestorage.git
    ```
    ```sh
-   git clone git@github.com:darubiomunoz/smartcontract-print.git
+   git clone git@github.com:darubiomunoz/smartcontract-simplestorage.git
    ```
 
 <!-- USAGE EXAMPLES -->
 ## 3. Usage :star2:
 
-If smart contract is made as part of a collection of smart contracts made in Solidity to practice coding and gain experience in this amazing texhnology.
+This smart contract is made as part of a collection of smart contracts made in Solidity to practice coding and gain experience in this amazing technology.
 
-Study the code try to understand it, and of course try code your on code too, using this an example.
+Study the code try to understand it, and of course try to code your on script too, using this as example.
 
 _For more examples, please refer to the [Example in the Documentation](https://docs.soliditylang.org/en/v0.8.1/solidity-by-example.html)_
 
@@ -126,7 +126,7 @@ Diego Rubio
 [linkedin](https://www.linkedin.com/in/darmdev/)
 darubiomunoz@gmail.com
 
-Project Link: [https://github.com/darubiomunoz/smartcontract-print.git](https://github.com/darubiomunoz/smartcontract-print.git)
+Project Link: [https://github.com/darubiomunoz/smartcontract-simplestorage.gitt](https://github.com/darubiomunoz/smartcontract-simplestorage.git)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 8. Acknowledgements :clap:
