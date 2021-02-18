@@ -16,7 +16,7 @@
   <a href="https://github.com/darubiomunoz/smartcontract-print">
     <img src="./src/images/smart-contracts-logo.svg" alt="Logo" width="200" height="200">
   </a>
-  <h1 align="center">Print Smart Contract</h1>
+  <h1 align="center">Simple Storage Smart Contract</h1>
   <p align="center">
     Blockchain
     <br />
@@ -126,7 +126,7 @@ Diego Rubio
 [linkedin](https://www.linkedin.com/in/darmdev/)
 darubiomunoz@gmail.com
 
-Project Link: [https://github.com/darubiomunoz/smartcontract-simplestorage.gitt](https://github.com/darubiomunoz/smartcontract-simplestorage.git)
+Project Link: [https://github.com/darubiomunoz/smartcontract-simplestorage.git](https://github.com/darubiomunoz/smartcontract-simplestorage.git)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 8. Acknowledgements :clap:
