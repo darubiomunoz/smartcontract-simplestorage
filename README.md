@@ -70,7 +70,7 @@ To develop this simple smart contract I used the standard tools used in the bloc
 <!-- GETTING STARTED -->
 ## 2. Getting Started :fire:
 
-To edit or do your on smart contract you can use Remix IDE on the browser.
+To edit or create your own smart contract you can use Remix IDE on the browser.
 In the web app you can create, compile, deploy and interact with smart contracts.
 
 * Remix IDE
